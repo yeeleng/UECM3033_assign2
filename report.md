@@ -20,6 +20,7 @@ Then check whether the matrix is positive definite.
 If it is positive definite and all diagonal element are positive, then solve it by SOR method.
 Otherwise, solve it by LU Factorization.
 
+
 Explain how you implement your `task1.py` here.
 
 Matrix A is classified as strictly diagonally dominant matrix when the diagonal element larger than the sum of other element on the row for all rows.
