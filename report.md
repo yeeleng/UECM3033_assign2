@@ -48,10 +48,10 @@ For a MxN sized picture, the number of zero in $\Sigma$ will be $(M \times N - N
 Put here your lower and better resolution pictures. Explain how you generate these pictures from `task2.py`.
 
 The image with lower resolution.
-![photo_lower.jpg]
+![photo_lower.jpg](photo_lower.jpg)
 
 The image with better resolution.
-![photo_better.jpg]
+![photo_better.jpg](photo_better.jpg)
 
 For each of the red, green and blue matrices, decompose into another 3 matrices $\Sigma, U$ and $V$.
 Create a new matrix $\Sigma_{30}$ which is the same dimensions as $\Sigma$, but keeping the first 30 none zero elements as in $\Sigma$, and set all other none zero elements to zero.
