@@ -39,7 +39,7 @@ If error received, solve it by LU Factorization. If no error received, then chec
 
 Put here your picture file (photo.tiff)
 
-![photo.tiff](photo.tiff)
+![photo.jpeg](photo.jpeg)
 
 How many non zero element in $\Sigma$?
 
