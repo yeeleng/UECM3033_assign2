@@ -38,7 +38,7 @@ Put here your picture file (photo.tiff)
 ![photo.tiff](photo.tiff)
 
 How many non zero element in $\Sigma$?
-For a MxN sized picture, the number of zero in $\Sigma$ will be $(M \times N - N)$
+For a MxN sized picture, the number of zero in $\Sigma$ will be $(M \times N - N)$.
 
 Put here your lower and better resolution pictures. Explain how you generate these pictures from `task2.py`.
 The image with lower resolution.
@@ -56,6 +56,7 @@ Both picture is then obtain by compute the matrix by U $\Sigma_n$ V for each col
 
 What is a sparse matrix?
 In numerical analysis, a sparse matrix is a matrix in which most of the elements are zero. 
+In this assignment, $\Sigma_n$ is the example of sparse matrix which contain only $n$ non-zero element out of $M \times N$ element.
 
 -----------------------------------
 
