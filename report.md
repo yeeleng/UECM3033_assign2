@@ -37,7 +37,7 @@ If error received, solve it by LU Factorization. If no error received, then chec
 
 ## Task 2 -- SVD method and image compression
 
-Put here your picture file (photo.tiff)
+Put here your picture file (photo.jpeg)
 
 ![photo.jpeg](photo.jpeg)
 
