@@ -3,7 +3,7 @@ import matplotlib.image as mpimg
 import numpy as np
 import scipy.linalg as sp
 
-img=mpimg.imread('photo.tiff')
+img=mpimg.imread('photo.jpeg')
 [r,g,b] = [img[:,:,i] for i in range(3)]
 
 plt.imshow(img)
